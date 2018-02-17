@@ -1,0 +1,40 @@
+#FacultyDetailsDiv{
+    border-style: solid;
+}
+
+.BranchSelecter{
+    text-align: center;
+    vertical-align: middle;
+    line-height: 600px;  
+}
+
+.leftdiv{
+    float: left;
+    width: 25%;
+    height: 850px;
+    background-color: wheat;
+}
+.leftdiv li{
+    height: 200px;
+    border-style: dashed;
+    border-color: brown;
+    padding-right:10px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 200px;
+}
+
+
+
+.rightdiv{
+    float: right;
+    position: relative;
+    width: 75%;
+    height: 100%;
+    background-color: palegoldenrod;
+    border-color: brown;
+}
+
+.rightdiv h2{
+    text-align: center;
+}
